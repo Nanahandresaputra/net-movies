@@ -4,7 +4,7 @@ import React from "react";
 const Footer = () => {
   return (
     <Box bottom={0} width="100%">
-      <Grid container spacing={2} justifyContent="center" alignItems="center" height="30vh" bgcolor="primary.main">
+      <Grid container spacing={2} justifyContent="center" alignItems="center" height="30vh" bgcolor="primary.light">
         <Grid item xs={6} align="center">
           <Typography variant="h2" component="h1" color="danger.dark" sx={{ fontFamily: "Bebas Neue", fontWeight: 300, fontSize: { xs: 25, sm: 40, md: 50 } }}>
             N E T M O V I E S
